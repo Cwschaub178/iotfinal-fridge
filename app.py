@@ -8,7 +8,7 @@ import os
 
 # Azure IoT Central DPS Configuration
 ID_SCOPE = "0ne00DEDFAB"  # Replace with your IoT Central ID Scope
-DEVICE_ID = "Chives71502"  # Replace with your Device ID
+DEVICE_ID = "ChrisPi"  # Replace with your Device ID
 DEVICE_KEY = "oPD8m8adVHLBl+QYSQWHfGspZqr41MxQXXbogNeVcOg="  # Replace with your Primary Key
 PROVISIONING_HOST = "global.azure-devices-provisioning.net"  # Default DPS endpoint
 
